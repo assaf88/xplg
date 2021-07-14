@@ -1,0 +1,8 @@
+07/07/2021 1.43, location: "South Sandwich Islands region"
+08/07/2021 1.52, location: "94 km W of Vallenar, Chile"
+09/07/2021 1.94, location: "Antelope Valley, CA"
+10/07/2021 1.66, location: "215 km NW of Tobelo, Indonesia"
+11/07/2021 1.47, location: "285 km ESE of Attu Station, Alaska"
+12/07/2021 1.40, location: "Chagos Archipelago region"
+13/07/2021 1.62, location: "Kuril Islands"
+14/07/2021 1.44, location: "166 km SW of Merizo Village, Guam"

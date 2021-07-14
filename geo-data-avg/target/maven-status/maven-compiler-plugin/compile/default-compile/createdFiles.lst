@@ -1,1 +1,8 @@
-com\xplg\geo\data\avg\main.class
+com\assaf\xplg\geotask\application\DayMagnitudeStatistics.class
+com\assaf\xplg\geotask\json\LiveGeoJson.class
+com\assaf\xplg\geotask\application\GeoTaskApplication.class
+com\assaf\xplg\geotask\io\OutputUtil.class
+com\assaf\xplg\geotask\config\Consts.class
+com\assaf\xplg\geotask\mapbox\FeatureCollectionRepository.class
+com\assaf\xplg\geotask\main.class
+com\assaf\xplg\geotask\util\CollectionUtil.class
